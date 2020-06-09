@@ -1,5 +1,5 @@
 {
-    "description": "Atmel Smart ARM devices CMSIS module",
+    "description": "Microchip SAMD34 CMSIS module",
     "name": "framework-cmsis-microchip-samr34",
     "url": "https://github.com/Miceuz/framework-cmsis-microchip-samr34",
     "version": "1.0.0"
